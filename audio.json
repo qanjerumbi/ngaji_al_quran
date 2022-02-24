@@ -83,6 +83,951 @@
       "link_mp3": "https://server8.mp3quran.net/afs/007.mp3",
       "duration": "4972",
       "lyrics": ""
+    },
+    {
+      "id": 107,
+      "name_category": "",
+      "title": "Al Fatihah - Pembukaan (7 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/001.mp3",
+      "duration": "51",
+      "lyrics": "" 
+    },
+    {
+      "id": 106,
+      "name_category": "",
+      "title": "AlBaqarah - Sapi Betina (286 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/002.mp3",
+      "duration": "7539",
+       "lyrics": ""
+    },
+    {
+      "id": 105,
+      "name_category": "",
+      "title": "Ali 'Imran - Keluarga Imran (200 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/003.mp3",
+      "duration": "4649",
+      "lyrics": ""
+    },
+    {
+      "id": 104,
+      "name_category": "",
+      "title": "An Nisa' - Wanita (176 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/004.mp3",
+      "duration": "4785",
+      "lyrics": ""
+    },
+    {
+      "id": 103,
+      "name_category": "",
+      "title": "Al Ma'idah - Hidangan Makanan (120 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/005.mp3",
+      "duration": "3767",
+      "lyrics": ""
+    },
+    {
+      "id": 102,
+      "name_category": "",
+      "title": "Al An'am - Binatang Ternak (165 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/006.mp3",
+      "duration": "4335",
+      "lyrics": ""
+    },
+    {
+      "id": 101,
+      "name_category": "",
+      "title": "Al A'raf - Tempat Tertinggi (206 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/007.mp3",
+      "duration": "4972",
+      "lyrics": ""
+    },
+    {
+      "id": 100,
+      "name_category": "",
+      "title": "Al Fatihah - Pembukaan (7 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/001.mp3",
+      "duration": "51",
+      "lyrics": "" 
+    },
+    {
+      "id": 99,
+      "name_category": "",
+      "title": "AlBaqarah - Sapi Betina (286 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/002.mp3",
+      "duration": "7539",
+       "lyrics": ""
+    },
+    {
+      "id": 98,
+      "name_category": "",
+      "title": "Ali 'Imran - Keluarga Imran (200 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/003.mp3",
+      "duration": "4649",
+      "lyrics": ""
+    },
+    {
+      "id": 97,
+      "name_category": "",
+      "title": "An Nisa' - Wanita (176 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/004.mp3",
+      "duration": "4785",
+      "lyrics": ""
+    },
+    {
+      "id": 96,
+      "name_category": "",
+      "title": "Al Ma'idah - Hidangan Makanan (120 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/005.mp3",
+      "duration": "3767",
+      "lyrics": ""
+    },
+    {
+      "id": 95,
+      "name_category": "",
+      "title": "Al An'am - Binatang Ternak (165 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/006.mp3",
+      "duration": "4335",
+      "lyrics": ""
+    },
+    {
+      "id": 94,
+      "name_category": "",
+      "title": "Al A'raf - Tempat Tertinggi (206 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/007.mp3",
+      "duration": "4972",
+      "lyrics": ""
+    },
+    {
+      "id": 93,
+      "name_category": "",
+      "title": "Al Fatihah - Pembukaan (7 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/001.mp3",
+      "duration": "51",
+      "lyrics": "" 
+    },
+    {
+      "id": 92,
+      "name_category": "",
+      "title": "AlBaqarah - Sapi Betina (286 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/002.mp3",
+      "duration": "7539",
+       "lyrics": ""
+    },
+    {
+      "id": 91,
+      "name_category": "",
+      "title": "Ali 'Imran - Keluarga Imran (200 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/003.mp3",
+      "duration": "4649",
+      "lyrics": ""
+    },
+    {
+      "id": 90,
+      "name_category": "",
+      "title": "An Nisa' - Wanita (176 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/004.mp3",
+      "duration": "4785",
+      "lyrics": ""
+    },
+    {
+      "id": 89,
+      "name_category": "",
+      "title": "Al Ma'idah - Hidangan Makanan (120 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/005.mp3",
+      "duration": "3767",
+      "lyrics": ""
+    },
+    {
+      "id": 88,
+      "name_category": "",
+      "title": "Al An'am - Binatang Ternak (165 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/006.mp3",
+      "duration": "4335",
+      "lyrics": ""
+    },
+    {
+      "id": 87,
+      "name_category": "",
+      "title": "Al A'raf - Tempat Tertinggi (206 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/007.mp3",
+      "duration": "4972",
+      "lyrics": ""
+    },
+    {
+      "id": 86,
+      "name_category": "",
+      "title": "Al Fatihah - Pembukaan (7 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/001.mp3",
+      "duration": "51",
+      "lyrics": "" 
+    },
+    {
+      "id": 85,
+      "name_category": "",
+      "title": "AlBaqarah - Sapi Betina (286 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/002.mp3",
+      "duration": "7539",
+       "lyrics": ""
+    },
+    {
+      "id": 84,
+      "name_category": "",
+      "title": "Ali 'Imran - Keluarga Imran (200 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/003.mp3",
+      "duration": "4649",
+      "lyrics": ""
+    },
+    {
+      "id": 83,
+      "name_category": "",
+      "title": "An Nisa' - Wanita (176 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/004.mp3",
+      "duration": "4785",
+      "lyrics": ""
+    },
+    {
+      "id": 82,
+      "name_category": "",
+      "title": "Al Ma'idah - Hidangan Makanan (120 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/005.mp3",
+      "duration": "3767",
+      "lyrics": ""
+    },
+    {
+      "id": 81,
+      "name_category": "",
+      "title": "Al An'am - Binatang Ternak (165 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/006.mp3",
+      "duration": "4335",
+      "lyrics": ""
+    },
+    {
+      "id": 80,
+      "name_category": "",
+      "title": "Al A'raf - Tempat Tertinggi (206 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/007.mp3",
+      "duration": "4972",
+      "lyrics": ""
+    },
+    {
+      "id": 79,
+      "name_category": "",
+      "title": "Al Fatihah - Pembukaan (7 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/001.mp3",
+      "duration": "51",
+      "lyrics": "" 
+    },
+    {
+      "id": 78,
+      "name_category": "",
+      "title": "AlBaqarah - Sapi Betina (286 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/002.mp3",
+      "duration": "7539",
+       "lyrics": ""
+    },
+    {
+      "id": 77,
+      "name_category": "",
+      "title": "Ali 'Imran - Keluarga Imran (200 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/003.mp3",
+      "duration": "4649",
+      "lyrics": ""
+    },
+    {
+      "id": 76,
+      "name_category": "",
+      "title": "An Nisa' - Wanita (176 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/004.mp3",
+      "duration": "4785",
+      "lyrics": ""
+    },
+    {
+      "id": 75,
+      "name_category": "",
+      "title": "Al Ma'idah - Hidangan Makanan (120 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/005.mp3",
+      "duration": "3767",
+      "lyrics": ""
+    },
+    {
+      "id": 74,
+      "name_category": "",
+      "title": "Al An'am - Binatang Ternak (165 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/006.mp3",
+      "duration": "4335",
+      "lyrics": ""
+    },
+    {
+      "id": 73,
+      "name_category": "",
+      "title": "Al A'raf - Tempat Tertinggi (206 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/007.mp3",
+      "duration": "4972",
+      "lyrics": ""
+    },
+    {
+      "id": 72,
+      "name_category": "",
+      "title": "Al Fatihah - Pembukaan (7 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/001.mp3",
+      "duration": "51",
+      "lyrics": "" 
+    },
+    {
+      "id": 71,
+      "name_category": "",
+      "title": "AlBaqarah - Sapi Betina (286 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/002.mp3",
+      "duration": "7539",
+       "lyrics": ""
+    },
+    {
+      "id": 70,
+      "name_category": "",
+      "title": "Ali 'Imran - Keluarga Imran (200 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/003.mp3",
+      "duration": "4649",
+      "lyrics": ""
+    },
+    {
+      "id": 69,
+      "name_category": "",
+      "title": "An Nisa' - Wanita (176 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/004.mp3",
+      "duration": "4785",
+      "lyrics": ""
+    },
+    {
+      "id": 68,
+      "name_category": "",
+      "title": "Al Ma'idah - Hidangan Makanan (120 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/005.mp3",
+      "duration": "3767",
+      "lyrics": ""
+    },
+    {
+      "id": 67,
+      "name_category": "",
+      "title": "Al An'am - Binatang Ternak (165 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/006.mp3",
+      "duration": "4335",
+      "lyrics": ""
+    },
+    {
+      "id": 66,
+      "name_category": "",
+      "title": "Al A'raf - Tempat Tertinggi (206 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/007.mp3",
+      "duration": "4972",
+      "lyrics": ""
+    },
+    {
+      "id": 65,
+      "name_category": "",
+      "title": "Al Fatihah - Pembukaan (7 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/001.mp3",
+      "duration": "51",
+      "lyrics": "" 
+    },
+    {
+      "id": 64,
+      "name_category": "",
+      "title": "AlBaqarah - Sapi Betina (286 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/002.mp3",
+      "duration": "7539",
+       "lyrics": ""
+    },
+    {
+      "id": 63,
+      "name_category": "",
+      "title": "Ali 'Imran - Keluarga Imran (200 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/003.mp3",
+      "duration": "4649",
+      "lyrics": ""
+    },
+    {
+      "id": 62,
+      "name_category": "",
+      "title": "An Nisa' - Wanita (176 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/004.mp3",
+      "duration": "4785",
+      "lyrics": ""
+    },
+    {
+      "id": 61,
+      "name_category": "",
+      "title": "Al Ma'idah - Hidangan Makanan (120 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/005.mp3",
+      "duration": "3767",
+      "lyrics": ""
+    },
+    {
+      "id": 60,
+      "name_category": "",
+      "title": "Al An'am - Binatang Ternak (165 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/006.mp3",
+      "duration": "4335",
+      "lyrics": ""
+    },
+    {
+      "id": 59,
+      "name_category": "",
+      "title": "Al A'raf - Tempat Tertinggi (206 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/007.mp3",
+      "duration": "4972",
+      "lyrics": ""
+    },
+    {
+      "id": 58,
+      "name_category": "",
+      "title": "Al Fatihah - Pembukaan (7 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/001.mp3",
+      "duration": "51",
+      "lyrics": "" 
+    },
+    {
+      "id": 57,
+      "name_category": "",
+      "title": "AlBaqarah - Sapi Betina (286 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/002.mp3",
+      "duration": "7539",
+       "lyrics": ""
+    },
+    {
+      "id": 56,
+      "name_category": "",
+      "title": "Ali 'Imran - Keluarga Imran (200 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/003.mp3",
+      "duration": "4649",
+      "lyrics": ""
+    },
+    {
+      "id": 55,
+      "name_category": "",
+      "title": "An Nisa' - Wanita (176 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/004.mp3",
+      "duration": "4785",
+      "lyrics": ""
+    },
+    {
+      "id": 54,
+      "name_category": "",
+      "title": "Al Ma'idah - Hidangan Makanan (120 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/005.mp3",
+      "duration": "3767",
+      "lyrics": ""
+    },
+    {
+      "id": 53,
+      "name_category": "",
+      "title": "Al An'am - Binatang Ternak (165 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/006.mp3",
+      "duration": "4335",
+      "lyrics": ""
+    },
+    {
+      "id": 52,
+      "name_category": "",
+      "title": "Al A'raf - Tempat Tertinggi (206 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/007.mp3",
+      "duration": "4972",
+      "lyrics": ""
+    },
+    {
+      "id": 51,
+      "name_category": "",
+      "title": "Al Fatihah - Pembukaan (7 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/001.mp3",
+      "duration": "51",
+      "lyrics": "" 
+    },
+    {
+      "id": 50,
+      "name_category": "",
+      "title": "AlBaqarah - Sapi Betina (286 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/002.mp3",
+      "duration": "7539",
+       "lyrics": ""
+    },
+    {
+      "id": 49,
+      "name_category": "",
+      "title": "Ali 'Imran - Keluarga Imran (200 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/003.mp3",
+      "duration": "4649",
+      "lyrics": ""
+    },
+    {
+      "id": 48,
+      "name_category": "",
+      "title": "An Nisa' - Wanita (176 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/004.mp3",
+      "duration": "4785",
+      "lyrics": ""
+    },
+    {
+      "id": 47,
+      "name_category": "",
+      "title": "Al Ma'idah - Hidangan Makanan (120 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/005.mp3",
+      "duration": "3767",
+      "lyrics": ""
+    },
+    {
+      "id": 46,
+      "name_category": "",
+      "title": "Al An'am - Binatang Ternak (165 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/006.mp3",
+      "duration": "4335",
+      "lyrics": ""
+    },
+    {
+      "id": 45,
+      "name_category": "",
+      "title": "Al A'raf - Tempat Tertinggi (206 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/007.mp3",
+      "duration": "4972",
+      "lyrics": ""
+    },
+    {
+      "id": 44,
+      "name_category": "",
+      "title": "Al Fatihah - Pembukaan (7 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/001.mp3",
+      "duration": "51",
+      "lyrics": "" 
+    },
+    {
+      "id": 43,
+      "name_category": "",
+      "title": "AlBaqarah - Sapi Betina (286 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/002.mp3",
+      "duration": "7539",
+       "lyrics": ""
+    },
+    {
+      "id": 42,
+      "name_category": "",
+      "title": "Ali 'Imran - Keluarga Imran (200 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/003.mp3",
+      "duration": "4649",
+      "lyrics": ""
+    },
+    {
+      "id": 41,
+      "name_category": "",
+      "title": "An Nisa' - Wanita (176 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/004.mp3",
+      "duration": "4785",
+      "lyrics": ""
+    },
+    {
+      "id": 40,
+      "name_category": "",
+      "title": "Al Ma'idah - Hidangan Makanan (120 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/005.mp3",
+      "duration": "3767",
+      "lyrics": ""
+    },
+    {
+      "id": 39,
+      "name_category": "",
+      "title": "Al An'am - Binatang Ternak (165 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/006.mp3",
+      "duration": "4335",
+      "lyrics": ""
+    },
+    {
+      "id": 38,
+      "name_category": "",
+      "title": "Al A'raf - Tempat Tertinggi (206 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/007.mp3",
+      "duration": "4972",
+      "lyrics": ""
+    },
+    {
+      "id": 37,
+      "name_category": "",
+      "title": "Al Fatihah - Pembukaan (7 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/001.mp3",
+      "duration": "51",
+      "lyrics": "" 
+    },
+    {
+      "id": 36,
+      "name_category": "",
+      "title": "AlBaqarah - Sapi Betina (286 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/002.mp3",
+      "duration": "7539",
+       "lyrics": ""
+    },
+    {
+      "id": 35,
+      "name_category": "",
+      "title": "Ali 'Imran - Keluarga Imran (200 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/003.mp3",
+      "duration": "4649",
+      "lyrics": ""
+    },
+    {
+      "id": 34,
+      "name_category": "",
+      "title": "An Nisa' - Wanita (176 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/004.mp3",
+      "duration": "4785",
+      "lyrics": ""
+    },
+    {
+      "id": 33,
+      "name_category": "",
+      "title": "Al Ma'idah - Hidangan Makanan (120 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/005.mp3",
+      "duration": "3767",
+      "lyrics": ""
+    },
+    {
+      "id": 32,
+      "name_category": "",
+      "title": "Al An'am - Binatang Ternak (165 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/006.mp3",
+      "duration": "4335",
+      "lyrics": ""
+    },
+    {
+      "id": 31,
+      "name_category": "",
+      "title": "Al A'raf - Tempat Tertinggi (206 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/007.mp3",
+      "duration": "4972",
+      "lyrics": ""
+    },
+    {
+      "id": 30,
+      "name_category": "",
+      "title": "Al Fatihah - Pembukaan (7 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/001.mp3",
+      "duration": "51",
+      "lyrics": "" 
+    },
+    {
+      "id": 29,
+      "name_category": "",
+      "title": "AlBaqarah - Sapi Betina (286 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/002.mp3",
+      "duration": "7539",
+       "lyrics": ""
+    },
+    {
+      "id": 28,
+      "name_category": "",
+      "title": "Ali 'Imran - Keluarga Imran (200 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/003.mp3",
+      "duration": "4649",
+      "lyrics": ""
+    },
+    {
+      "id": 27,
+      "name_category": "",
+      "title": "An Nisa' - Wanita (176 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/004.mp3",
+      "duration": "4785",
+      "lyrics": ""
+    },
+    {
+      "id": 26,
+      "name_category": "",
+      "title": "Al Ma'idah - Hidangan Makanan (120 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/005.mp3",
+      "duration": "3767",
+      "lyrics": ""
+    },
+    {
+      "id": 25,
+      "name_category": "",
+      "title": "Al An'am - Binatang Ternak (165 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/006.mp3",
+      "duration": "4335",
+      "lyrics": ""
+    },
+    {
+      "id": 24,
+      "name_category": "",
+      "title": "Al A'raf - Tempat Tertinggi (206 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/007.mp3",
+      "duration": "4972",
+      "lyrics": ""
+    },
+    {
+      "id": 23,
+      "name_category": "",
+      "title": "Al Fatihah - Pembukaan (7 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/001.mp3",
+      "duration": "51",
+      "lyrics": "" 
+    },
+    {
+      "id": 22,
+      "name_category": "",
+      "title": "AlBaqarah - Sapi Betina (286 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/002.mp3",
+      "duration": "7539",
+       "lyrics": ""
+    },
+    {
+      "id": 21,
+      "name_category": "",
+      "title": "Ali 'Imran - Keluarga Imran (200 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/003.mp3",
+      "duration": "4649",
+      "lyrics": ""
+    },
+    {
+      "id": 20,
+      "name_category": "",
+      "title": "An Nisa' - Wanita (176 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/004.mp3",
+      "duration": "4785",
+      "lyrics": ""
+    },
+    {
+      "id": 19,
+      "name_category": "",
+      "title": "Al Ma'idah - Hidangan Makanan (120 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/005.mp3",
+      "duration": "3767",
+      "lyrics": ""
+    },
+    {
+      "id": 18,
+      "name_category": "",
+      "title": "Al An'am - Binatang Ternak (165 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/006.mp3",
+      "duration": "4335",
+      "lyrics": ""
+    },
+    {
+      "id": 17,
+      "name_category": "",
+      "title": "Al A'raf - Tempat Tertinggi (206 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/007.mp3",
+      "duration": "4972",
+      "lyrics": ""
+    },
+    {
+      "id": 16,
+      "name_category": "",
+      "title": "Al Fatihah - Pembukaan (7 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/001.mp3",
+      "duration": "51",
+      "lyrics": "" 
+    },
+    {
+      "id": 15,
+      "name_category": "",
+      "title": "AlBaqarah - Sapi Betina (286 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/002.mp3",
+      "duration": "7539",
+       "lyrics": ""
+    },
+    {
+      "id": 14,
+      "name_category": "",
+      "title": "Ali 'Imran - Keluarga Imran (200 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/003.mp3",
+      "duration": "4649",
+      "lyrics": ""
+    },
+    {
+      "id": 13,
+      "name_category": "",
+      "title": "An Nisa' - Wanita (176 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/004.mp3",
+      "duration": "4785",
+      "lyrics": ""
+    },
+    {
+      "id": 12,
+      "name_category": "",
+      "title": "Al Ma'idah - Hidangan Makanan (120 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/005.mp3",
+      "duration": "3767",
+      "lyrics": ""
+    },
+    {
+      "id": 11,
+      "name_category": "",
+      "title": "Al An'am - Binatang Ternak (165 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/006.mp3",
+      "duration": "4335",
+      "lyrics": ""
+    },
+    {
+      "id": 10,
+      "name_category": "",
+      "title": "Al A'raf - Tempat Tertinggi (206 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/007.mp3",
+      "duration": "4972",
+      "lyrics": ""
+    },
+    {
+      "id": 09,
+      "name_category": "",
+      "title": "Al Fatihah - Pembukaan (7 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/001.mp3",
+      "duration": "51",
+      "lyrics": "" 
+    },
+    {
+      "id": 113,
+      "name_category": "",
+      "title": "AlBaqarah - Sapi Betina (286 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/002.mp3",
+      "duration": "7539",
+       "lyrics": ""
+    },
+    {
+      "id": 112,
+      "name_category": "",
+      "title": "Ali 'Imran - Keluarga Imran (200 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/003.mp3",
+      "duration": "4649",
+      "lyrics": ""
+    },
+    {
+      "id": 111,
+      "name_category": "",
+      "title": "An Nisa' - Wanita (176 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/004.mp3",
+      "duration": "4785",
+      "lyrics": ""
+    },
+    {
+      "id": 110,
+      "name_category": "",
+      "title": "Al Ma'idah - Hidangan Makanan (120 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/005.mp3",
+      "duration": "3767",
+      "lyrics": ""
+    },
+    {
+      "id": 109,
+      "name_category": "",
+      "title": "Al An'am - Binatang Ternak (165 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/006.mp3",
+      "duration": "4335",
+      "lyrics": ""
+    },
+    {
+      "id": 108,
+      "name_category": "",
+      "title": "Al A'raf - Tempat Tertinggi (206 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/007.mp3",
+      "duration": "4972",
+      "lyrics": ""
     }
     ]
 }
