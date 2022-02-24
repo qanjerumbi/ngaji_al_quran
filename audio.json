@@ -126,4 +126,22 @@
       "duration": "3767",
       "lyrics": ""
     },
+    {
+      "id": 109,
+      "name_category": "Al An'am",
+      "title": "Binatang Ternak (165 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/006.mp3",
+      "duration": "4335",
+      "lyrics": ""
+    },
+    {
+      "id": 108,
+      "name_category": "Al A'raf",
+      "title": "Tempat Tertinggi (206 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/007.mp3",
+      "duration": "4972",
+      "lyrics": ""
+    },
     
