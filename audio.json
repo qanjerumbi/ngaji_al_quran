@@ -19,81 +19,21 @@
       "link_redirect": "https://"
     }
   ],
-  "Categories": [
-    {
-      "id": 114,
-      "name_category": "Al Fatihah",
-      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg"
-    },
-    {
-      "id": 113,
-      "name_category": "Al Baqarah",
-      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg"
-    },
-    {
-      "id": 112,
-      "name_category": "Ali 'Imran",
-      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg"
-    },
-    {
-      "id": 111,
-      "name_category": "An Nisa'",
-      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg"
-    },
-    {
-      "id": 110,
-      "name_category": "Al Ma'idah",
-      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg"
-    },
-    {
-      "id": 109,
-      "name_category": "Al An'am",
-      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg"
-    },
-    {
-      "id": 109,
-      "name_category": "Al A'raf",
-      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg"
-    },
-    {
-      "id": 109,
-      "name_category": "Al An'fal",
-      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg"
-    },
-    {
-      "id": 109,
-      "name_category": "At Taubah",
-      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg"
-    }
-  ],
   
   "Data": [
     {
       "id": 114,
-      "name_category": "Al Fatihah",
-      "title": "Pembukaan (7 Ayat)",
+      "name_category": "",
+      "title": "Al Fatihah - Pembukaan (7 Ayat)",
       "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
       "link_mp3": "https://server8.mp3quran.net/afs/001.mp3",
       "duration": "51",
-      "lyrics": "<p>
-<h2>بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ</h2>
-<p>Dengan nama Allah Yang Maha Pengasih Maha Penyayang</p>
-<h2><br />اَلْحَمْدُ لِلّٰهِ رَبِّ الْعٰلَمِيْنَۙ</h2>
-<p>Segala puji bagi Allah Tuhan seluruh alam</p>
-<h2><br />الرَّحْمٰنِ الرَّحِيْمِۙ</h2>
-<p>Yang Maha Pengasih Maha Penyayang</p>
-<h2><br />مٰلِكِ يَوْمِ الدِّيْنِۗ</h2>
-<p>Pemilik hari pembalasan</p>
-<h2><br />اِيَّاكَ نَعْبُدُ وَاِيَّاكَ نَسْتَعِيْنُۗ</h2>
-<p>Hanya kepada Engkaulah kami menyembah dan hanya kepada Engkaulah kami mohon pertolongan</p>
-<h2><br />اِهْدِنَا الصِّرَاطَ الْمُسْتَقِيْمَ </h2>
-<p>Tunjukilah kami jalan yang lurus</p>
-<h2><br />صِرَاطَ الَّذِيْنَ اَنْعَمْتَ عَلَيْهِمْ ەۙ غَيْرِ الْمَغْضُوْبِ عَلَيْهِمْ وَلَا الضَّاۤلِّيْنَ</h2>
-<p>yaitu jalan orang-orang yang telah Engkau beri nikmat kepadanya bukan jalan mereka yang dimurkai dan bukan pula jalan mereka yang sesat</p> </p>" },
-      {
+      "lyrics": "" 
+    },
+    {
       "id": 113,
-      "name_category": "AlBaqarah",
-      "title": "Sapi Betina (286 Ayat)",
+      "name_category": "",
+      "title": "AlBaqarah - Sapi Betina (286 Ayat)",
       "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
       "link_mp3": "https://server8.mp3quran.net/afs/002.mp3",
       "duration": "7539",
@@ -101,8 +41,8 @@
     },
     {
       "id": 112,
-      "name_category": "Ali 'Imran",
-      "title": "Keluarga Imran (200 Ayat)",
+      "name_category": "",
+      "title": "Ali 'Imran - Keluarga Imran (200 Ayat)",
       "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
       "link_mp3": "https://server8.mp3quran.net/afs/003.mp3",
       "duration": "4649",
@@ -110,17 +50,17 @@
     },
     {
       "id": 111,
-      "name_category": "An Nisa'",
-      "title": "Wanita (176 Ayat)",
+      "name_category": "",
+      "title": "An Nisa' - Wanita (176 Ayat)",
       "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
       "link_mp3": "https://server8.mp3quran.net/afs/004.mp3",
       "duration": "4785",
       "lyrics": ""
-       },
+    },
     {
       "id": 110,
-      "name_category": "Al Ma'idah",
-      "title": "Hidangan Makanan (120 Ayat)",
+      "name_category": "",
+      "title": "Al Ma'idah - Hidangan Makanan (120 Ayat)",
       "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
       "link_mp3": "https://server8.mp3quran.net/afs/005.mp3",
       "duration": "3767",
@@ -128,8 +68,8 @@
     },
     {
       "id": 109,
-      "name_category": "Al An'am",
-      "title": "Binatang Ternak (165 Ayat)",
+      "name_category": "",
+      "title": "Al An'am - Binatang Ternak (165 Ayat)",
       "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
       "link_mp3": "https://server8.mp3quran.net/afs/006.mp3",
       "duration": "4335",
@@ -137,20 +77,11 @@
     },
     {
       "id": 108,
-      "name_category": "Al A'raf",
-      "title": "Tempat Tertinggi (206 Ayat)",
+      "name_category": "",
+      "title": "Al A'raf - Tempat Tertinggi (206 Ayat)",
       "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
       "link_mp3": "https://server8.mp3quran.net/afs/007.mp3",
       "duration": "4972",
-      "lyrics": ""
-    },
-    {
-      "id": 109,
-      "name_category": "Al An'am",
-      "title": "Binatang Ternak (165 Ayat)",
-      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
-      "link_mp3": "https://server8.mp3quran.net/afs/006.mp3",
-      "duration": "4335",
       "lyrics": ""
     }
     ]
