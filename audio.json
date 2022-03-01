@@ -1,13 +1,13 @@
 {
   "Ads": [
     {
-      "select_main_ads": "ADMOB",
-      "select_backup_ads":"APPLOVIN-M",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "backup_ads_banner":"db4d5e8718b97d78",
-      "backup_ads_intertitial":"518cd97722c60b52",
-      "interval_intertitial": 7,
+      "select_main_ads": "xADMOBxx",
+      "select_backup_ads":"xAPPLOVIN-Mx",
+      "main_ads_banner": "xca-app-pub-3940256099942544/6300978111x",
+      "main_ads_intertitial":"xca-app-pub-3940256099942544/1033173712x",
+      "backup_ads_banner":"xdb4d5e8718b97d78x",
+      "backup_ads_intertitial":"x518cd97722c60b52x",
+      "interval_intertitial": 70,
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
@@ -267,7 +267,7 @@
     {
       "id": 87,
       "name_category": "",
-      "title": "Al Qasas - Cerita (88 Ayat)",
+      "title": "Al Qosos - Cerita (88 Ayat)",
       "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
       "link_mp3": "https://server8.mp3quran.net/afs/028.mp3",
       "duration": "1903",
